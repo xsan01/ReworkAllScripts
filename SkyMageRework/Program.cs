@@ -20,7 +20,7 @@ namespace SkyMageRework
         private static Font txt;
         private static Font noti;
         private static Line lines;
-        private static Key keyCombo = Key.D;
+        private static Key keyCombo = Key.T;
         private static Key toggleKey = Key.M;
         private static Key blinkToggleKey = Key.P;
         private static Key UseUltimate = Key.H;
